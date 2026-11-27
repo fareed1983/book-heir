@@ -1,0 +1,16 @@
+book_id,title,file_name,author,license,source_url
+0,Algorithms,Algorithms-JeffE.pdf,Jeff Erickson,CC BY 4.0,https://jeffe.cs.illinois.edu/teaching/algorithms/
+1,An Open Guide to Data Structures and Algorithms,An-Open-Guide-to-Data-Structures-and-Algorithms-1743008152._print.pdf,Paul W. Bible; Lucas Moser (PALNI Open Press),CC BY 4.0,https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/
+2,Computer Organization and Assembly Language Programming,Computer Organization and Assembly Language Programming.pdf,Chenxi Wang; Muhammad Rashed (University of Texas at Arlington),CC BY-NC-SA 4.0,https://mavmatrix.uta.edu/oer_mavsopenpress2/3
+3,Foundations of Information Systems,Foundations_of_Information_Systems_-_WEB_oNlbGYl.pdf,Mahesh S. Raisinghani (senior contributing author) and contributing authors (OpenStax),CC BY-NC-SA 4.0,https://openstax.org/books/foundations-information-systems/pages/preface
+4,Introduction to Computer Programming with Python,OER-202301_Wang_2023-Introduction-to-Computer-Programming-with-Python.pdf,Harris Wang (Athabasca University Press),CC BY-NC-SA 4.0,https://read.aupress.ca/projects/introduction-to-computer-programming-with-python
+5,Pro Git,Pro Git.pdf,Scott Chacon; Ben Straub,CC BY-NC-SA 3.0,https://git-scm.com/book/en/v2
+6,Python for Everybody,Python for Everybody.pdf,Charles R. Severance,CC BY 4.0 (as stated on the book page),https://www.py4e.com/book
+7,A Byte of Python,byte-of-python.pdf,Swaroop C H,"CC BY-SA 4.0 (current edition, as listed on LibreTexts; older editions not checked)",https://python.swaroopch.com/
+8,Git Internals,git-internals.pdf,"Scott Chacon (originally a Peepcode PDF, open sourced by Pluralsight)",CC BY-SA (version not stated),https://github.blog/news-insights/the-library/git-internals-pdf-open-sourced/
+9,"Open Data Structures (C++ edition, labeled Beta)",ods-cpp.pdf,Pat Morin,CC BY (the page links version 2.5 Canada),https://opendatastructures.org/
+10,"Open Data Structures (pseudocode edition, Python sources)",ods-python.pdf,Pat Morin,CC BY (the page links version 2.5 Canada),https://opendatastructures.org/
+11,Open Data Structures (Java edition),ods-java.pdf,Pat Morin,CC BY (the page links version 2.5 Canada),https://opendatastructures.org/
+12,Think Python (1st edition),thinkpython1.pdf,Allen B. Downey,CC BY-NC 3.0 Unported,https://greenteapress.com/wp/think-python/
+13,Think Python (2nd edition),thinkpython2.pdf,Allen B. Downey,CC BY-NC 3.0 Unported,https://greenteapress.com/thinkpython2
+14,x86-64 Assembly Language Programming with Ubuntu,x86-64 Assembly Language Programming with Ubuntu.pdf,Ed Jorgensen,CC BY-NC-SA (version not stated),https://mds.marshall.edu/oa-textbooks/629
